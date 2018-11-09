@@ -7,7 +7,10 @@ It is very responsive to mobile and large screen.
 
 # Demo
 ## Large Screen
+![alt text](https://raw.githubusercontent.com/seannguyn/HomePage/branch/blob/master/large.png)
 
 ## Small Screen
+![alt text](https://raw.githubusercontent.com/seannguyn/HomePage/branch/blob/master/small.png)
 
 ## Video
+> * [Video](https://drive.google.com/open?id=1nJM0LMtEQb9QAeCiKEf57JdoYlvqoZC0)
